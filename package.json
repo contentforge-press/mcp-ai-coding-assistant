@@ -1,0 +1,17 @@
+{
+  "name": "mcp-ai-coding-assistant",
+  "version": "1.0.0",
+  "description": "MCP server template that gives AI coding agents live context: HN trending, web search and math tools for smarter code generation.",
+  "main": "worker.js",
+  "type": "module",
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "template",
+    "server",
+    "ai",
+    "agent"
+  ],
+  "license": "SEE LICENSE IN README.md",
+  "author": "PixHarvest (ContentForge)"
+}
